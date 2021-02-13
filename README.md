@@ -12,8 +12,6 @@ The application capabilities:
 4) Search for questions based on a text query string.
 5) Play the quiz game, randomizing either all questions or within a specific category. 
 
-Completing this trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others. 
-
 ## Getting Started
 
 ### Installing Dependencies
